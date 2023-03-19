@@ -8,7 +8,7 @@
 ### <div align="center">I'm Pavan L S, I am Full Stack Java Developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Core Java, Master Data Management  
+- 🔭 I’m currently working on Master Data Management  
   
 
 - 🌱 I’m currently learning AWS, Docker, Node.js  
