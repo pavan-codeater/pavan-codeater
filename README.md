@@ -6,18 +6,14 @@
   
 
 ### <div align="center">I'm Pavan L S, I am Full Stack Java Developer 👨‍💻 </div>  
+   
   
 
-- 🔭 I’m currently working on Master Data Management  
+- 🌱 I’m currently learning AWS Concepts.  
   
 
-- 🌱 I’m currently learning AWS, Docker, Node.js  
-  
-
-- ❓ Ask me about anything related to Java and SpringBoot Technologies.  
-  
-
-- ⚡ Fun fact: I eat ice-creams in winter  
+- ❓ Java is old language but it is Gold.  
+    
   
 
 <br/>  
