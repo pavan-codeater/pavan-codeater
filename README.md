@@ -9,7 +9,7 @@
    
   
 
-- 🌱 I’m currently learning AWS Concepts.  
+- 🌱 I’m currently learning AWS.  
   
 
 - ❓ Java is old language but it is Gold.  
