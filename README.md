@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am currently Looking for a Job for a Full Stack Javascript role.<br>I am exploring Blockchain.<br>My skills set HTML,css, beginner to medium level javascript,Core Java,Spring boot,<br>Mysql , beginner knowledge on MongoDB , git and github<br>Tools used VS code,Postman
+# 💫 About Me: 
+I am currently seeking a Full Stack JavaScript Developer role and actively exploring Blockchain technologies. My skill set includes **HTML**, **CSS**, **JavaScript (Beginner to Intermediate)**, **Core Java**, **Spring Boot**, **MySQL**, and basic knowledge of **MongoDB**. Proficient in tools like **VS Code**, **Postman**, and version control using **Git/GitHub**.  
+
 
 
 ## 🌐 Socials:
