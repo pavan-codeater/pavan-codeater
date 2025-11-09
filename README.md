@@ -1,114 +1,82 @@
 # 👋 Hi, I'm Pavan L S  
 
-💻 **Aspiring Data Scientist | Former SEO Analyst | Passionate About Machine Learning, AI & Data Analytics**
+🚀 **Machine Learning & AI Engineer**  
+I build intelligent systems that solve real-world problems using data-driven insights and automation.  
 
 ---
 
-## 🌟 About Me
-
-I’m a **Computer Science Engineer (B.E - 8.40 CGPA)** who started my career as an **SEO Analyst** and transitioned into **Data Science** after discovering my passion for **data, automation, and analytics**.
-
-I’ve successfully completed **10 end-to-end Machine Learning projects**, implementing concepts like feature engineering, model building, hyperparameter tuning, and deployment.
-
-Currently, I’m focusing on **MLOps and advanced data-driven applications** to solve real-world problems.
-
----
-
-## 🧠 Technical Skills
-
-**Programming & Libraries**  
-`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Jupyter Notebook`
-
-**Machine Learning Concepts**  
-Regression • Classification • Clustering • Feature Engineering • Model Evaluation • Dimensionality Reduction
-
-**MLOps & Deployment**  
-End-to-End ML Pipelines • Streamlit • Flask • Git & GitHub • Model Deployment  
-
-**Other Skills**  
-SQL • Git • Java • SEO Analytics • React.js (Basic)
+## 🧠 About Me  
+- 💼 Worked on **AI Agent development** at **Position2**, building automation tools for SEO and marketing workflows.  
+- 💻 Strong hands-on experience in **Python**, **JavaScript**, and **Machine Learning**.  
+- 🧩 Skilled at developing, training, and deploying machine learning models for classification and regression tasks.  
+- 🔍 Exploring **Deep Learning**, **AI-driven automation**, and **Data Analytics**.  
+- 🎯 Goal: To contribute to a **startup or data-driven company** as a **Machine Learning Engineer** or **AI Developer**.
 
 ---
 
-## 📚 Machine Learning Projects
+## 🧩 Technical Skills  
+
+### 💻 Programming & Frameworks  
+- **Languages:** Python, JavaScript  
+- **Frameworks & Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Streamlit, FastAPI, Gradio  
+- **Web Tools:** Node.js, Express.js, REST APIs (for ML model integration)  
+- **Database:** MongoDB, MySQL  
+
+### 🧠 Machine Learning & Data Science  
+- Supervised Learning (Regression, Classification)  
+- Unsupervised Learning (Clustering, PCA)  
+- Feature Engineering & Data Preprocessing  
+- Model Evaluation and Hyperparameter Tuning  
+
+### ⚙️ Tools & Platforms  
+- Jupyter Notebook, VS Code  
+- Git, GitHub, Heroku, Docker (basic)  
+- Google Sheets API, SEMrush API, Puppeteer  
+
+---
+
+## 📚 Machine Learning Projects  
 
 | No | Project Title | Description |
 |----|----------------|-------------|
-| 1️⃣ | **Fault Detection in Wafers** | Developed a classification model to identify defective wafers based on sensor data. |
-| 2️⃣ | **Cement Strength Prediction** | Predicted cement compressive strength using regression and statistical analysis. |
-| 3️⃣ | **Credit Card Defaulters** | Built a predictive model to classify customers likely to default on payments. |
-| 4️⃣ | **Forest Cover Type Prediction** | Classified forest cover types based on cartographic variables using ML models. |
-| 5️⃣ | **Income Prediction** | Predicted whether a person’s income exceeds a certain threshold using demographic data. |
-| 6️⃣ | **Insurance Fraud Detection** | Detected fraudulent insurance claims using classification and anomaly detection. |
-| 7️⃣ | **Mushroom Classification** | Classified mushrooms as edible or poisonous based on features using supervised learning. |
-| 8️⃣ | **Phishing Classifier** | Built a model to detect phishing URLs using extracted web features. |
-| 9️⃣ | **Thyroid Detection** | Diagnosed thyroid disorders using medical test data with ML models. |
-| 🔟 | **Visibility Climate Prediction** | Predicted climate visibility using regression models based on weather data. |
+| 1️⃣ | **Fault Detection in Wafers** | Developed a classification model to identify defective wafers using sensor data and ML algorithms. |
+| 2️⃣ | **Cement Strength Prediction** | Predicted the compressive strength of cement using regression and statistical analysis. |
+| 3️⃣ | **Credit Card Defaulters** | Built a model to classify potential credit card defaulters based on customer behavior and financial data. |
+| 4️⃣ | **Forest Cover Type Prediction** | Classified forest cover types using cartographic variables and ensemble learning. |
+| 5️⃣ | **Income Prediction** | Predicted whether a person’s income exceeds a threshold using demographic data. |
+| 6️⃣ | **Insurance Fraud Detection** | Detected fraudulent insurance claims through anomaly detection and supervised learning. |
+| 7️⃣ | **Mushroom Classification** | Classified mushrooms as edible or poisonous using decision trees and logistic regression. |
+| 8️⃣ | **Phishing Classifier** | Detected phishing URLs using extracted web-based features and ML models. |
+| 9️⃣ | **Thyroid Detection** | Built a diagnostic model to identify thyroid disorders using patient test data. |
+| 🔟 | **Visibility Climate Prediction** | Predicted climate visibility using regression analysis on weather datasets. |
 
 ---
 
-## 🎯 Current Focus
+## 🧠 Featured Projects  
 
-- Transitioning from **SEO Analyst → Data Scientist**  
-- Strengthening **MLOps and Model Deployment**  
-- Exploring **Real-world ML Applications**  
-- Applying for **Data Science / ML Engineer roles** (India & Remote)
+### 🤖 **AI Chatbot for Businesses**  
+Custom GPT-powered chatbot that automates lead generation and customer support for small businesses.  
+🧩 *Node.js | OpenAI API | Express | ChatGPT Integration*
 
----
-
-## 🎓 Education
-
-**Bachelor of Engineering (Computer Science)**  
-🎓 *SJB Institute of Technology (VTU Belagavi)*  
-CGPA: **8.40 / 10** (2017 - 2021)
+### 🌐 **SEO Keyword Research Agent** *(Developed at Position2)*  
+AI-powered agent that automates keyword research, competitor analysis, and data extraction from Google and SEMrush.  
+⚙️ *Puppeteer | SEMrush API | OpenAI | Google Sheets API*
 
 ---
 
-## 💼 Experience
-
-**SEO Analyst — Position²**  
-📍 Bengaluru, India (Apr 2025 – Oct 2025)  
-- Conducted SEO data analysis and keyword performance modeling.  
-- Applied data analytics to enhance content performance and ROI.
-
-**AI Chatbot Automation Creator — Freelance**  
-📍 Remote (Oct 2023 – Mar 2025)  
-- Built intelligent chatbots using NLP and automation for business clients.
-
-**Software Engineer — TCS**  
-📍 India (Feb 2022 – Sep 2023)  
-- Worked on backend systems using Java, SQL, and Git version control.
+## 🔍 Currently Exploring  
+- Deep Learning (CNNs, NLP, Transformers)  
+- LLM Applications and Agentic Workflows  
+- Building ML & AI Portfolio Projects  
 
 ---
 
-## 🏆 Certifications
+## 💬 Let's Connect  
 
-- **Machine Learning A–Z™ — Udemy**  
-- **Python for Data Science — Coursera**  
-- **React.js Essential Training — LinkedIn Learning**  
-- **Spring Boot 3 & Hibernate — Udemy**
-
----
-
-## ⚙️ Dynamic Stats (Auto-Updating)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan-codeater&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-codeater&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=pavan-codeater&theme=tokyonight)
+📧 **Email:** your.email@example.com  
+💼 **LinkedIn:** [linkedin.com/in/pavanls](https://linkedin.com/in/pavanls)  
+💻 **GitHub:** [github.com/pavanls](https://github.com/pavanls)
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20L%20S-blue?logo=linkedin)](https://www.linkedin.com/in/pavan-l-s)  
-[![GitHub](https://img.shields.io/badge/GitHub-pavan--codeater-black?logo=github)](https://github.com/pavan-codeater)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/pavan-codeater)
-
----
-
-## ✨ Fun Fact  
-When I’m not working with data, I love playing **badminton**, attending **tech meetups**, and exploring **AI-driven automation** ideas.
-
----
-
-⭐️ _"Turning Data into Decisions and Insights into Impact."_  
+⭐️ *"Turning data into intelligent, automated, and impactful solutions."*
