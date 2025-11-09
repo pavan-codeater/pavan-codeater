@@ -73,7 +73,7 @@ AI-powered agent that automates keyword research, competitor analysis, and data 
 
 ## 💬 Let's Connect  
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** pavanlsuse@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/pavanls](https://linkedin.com/in/pavanls)  
 💻 **GitHub:** [github.com/pavanls](https://github.com/pavanls)
 
