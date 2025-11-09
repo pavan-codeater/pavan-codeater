@@ -1,19 +1,114 @@
-# 💫 About Me: 
-I am currently seeking a Full Stack JavaScript Developer role and actively exploring Blockchain technologies. My skill set includes **HTML**, **CSS**, **JavaScript (Beginner to Intermediate)**, **Core Java**, **Spring Boot**, **MySQL**, and basic knowledge of **MongoDB**. Proficient in tools like **VS Code**, **Postman**, and version control using **Git/GitHub**.  
+# 👋 Hi, I'm Pavan L S  
 
+💻 **Aspiring Data Scientist | Former SEO Analyst | Passionate About Machine Learning, AI & Data Analytics**
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-l-s-bb5767170/) 
+## 🌟 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
+I’m a **Computer Science Engineer (B.E - 8.40 CGPA)** who started my career as an **SEO Analyst** and transitioned into **Data Science** after discovering my passion for **data, automation, and analytics**.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pavan-codeater&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-codeater&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’ve successfully completed **10 end-to-end Machine Learning projects**, implementing concepts like feature engineering, model building, hyperparameter tuning, and deployment.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Currently, I’m focusing on **MLOps and advanced data-driven applications** to solve real-world problems.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 Technical Skills
+
+**Programming & Libraries**  
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Jupyter Notebook`
+
+**Machine Learning Concepts**  
+Regression • Classification • Clustering • Feature Engineering • Model Evaluation • Dimensionality Reduction
+
+**MLOps & Deployment**  
+End-to-End ML Pipelines • Streamlit • Flask • Git & GitHub • Model Deployment  
+
+**Other Skills**  
+SQL • Git • Java • SEO Analytics • React.js (Basic)
+
+---
+
+## 📚 Machine Learning Projects
+
+| No | Project Title | Description |
+|----|----------------|-------------|
+| 1️⃣ | **Fault Detection in Wafers** | Developed a classification model to identify defective wafers based on sensor data. |
+| 2️⃣ | **Cement Strength Prediction** | Predicted cement compressive strength using regression and statistical analysis. |
+| 3️⃣ | **Credit Card Defaulters** | Built a predictive model to classify customers likely to default on payments. |
+| 4️⃣ | **Forest Cover Type Prediction** | Classified forest cover types based on cartographic variables using ML models. |
+| 5️⃣ | **Income Prediction** | Predicted whether a person’s income exceeds a certain threshold using demographic data. |
+| 6️⃣ | **Insurance Fraud Detection** | Detected fraudulent insurance claims using classification and anomaly detection. |
+| 7️⃣ | **Mushroom Classification** | Classified mushrooms as edible or poisonous based on features using supervised learning. |
+| 8️⃣ | **Phishing Classifier** | Built a model to detect phishing URLs using extracted web features. |
+| 9️⃣ | **Thyroid Detection** | Diagnosed thyroid disorders using medical test data with ML models. |
+| 🔟 | **Visibility Climate Prediction** | Predicted climate visibility using regression models based on weather data. |
+
+---
+
+## 🎯 Current Focus
+
+- Transitioning from **SEO Analyst → Data Scientist**  
+- Strengthening **MLOps and Model Deployment**  
+- Exploring **Real-world ML Applications**  
+- Applying for **Data Science / ML Engineer roles** (India & Remote)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (Computer Science)**  
+🎓 *SJB Institute of Technology (VTU Belagavi)*  
+CGPA: **8.40 / 10** (2017 - 2021)
+
+---
+
+## 💼 Experience
+
+**SEO Analyst — Position²**  
+📍 Bengaluru, India (Apr 2025 – Oct 2025)  
+- Conducted SEO data analysis and keyword performance modeling.  
+- Applied data analytics to enhance content performance and ROI.
+
+**AI Chatbot Automation Creator — Freelance**  
+📍 Remote (Oct 2023 – Mar 2025)  
+- Built intelligent chatbots using NLP and automation for business clients.
+
+**Software Engineer — TCS**  
+📍 India (Feb 2022 – Sep 2023)  
+- Worked on backend systems using Java, SQL, and Git version control.
+
+---
+
+## 🏆 Certifications
+
+- **Machine Learning A–Z™ — Udemy**  
+- **Python for Data Science — Coursera**  
+- **React.js Essential Training — LinkedIn Learning**  
+- **Spring Boot 3 & Hibernate — Udemy**
+
+---
+
+## ⚙️ Dynamic Stats (Auto-Updating)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan-codeater&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-codeater&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=pavan-codeater&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20L%20S-blue?logo=linkedin)](https://www.linkedin.com/in/pavan-l-s)  
+[![GitHub](https://img.shields.io/badge/GitHub-pavan--codeater-black?logo=github)](https://github.com/pavan-codeater)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/pavan-codeater)
+
+---
+
+## ✨ Fun Fact  
+When I’m not working with data, I love playing **badminton**, attending **tech meetups**, and exploring **AI-driven automation** ideas.
+
+---
+
+⭐️ _"Turning Data into Decisions and Insights into Impact."_  
