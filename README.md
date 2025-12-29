@@ -1,82 +1,75 @@
-# 👋 Hi, I'm Pavan L S  
+👋 Hi, I’m Pavan L S
 
-🚀 **Machine Learning & AI Engineer**  
-I build intelligent systems that solve real-world problems using data-driven insights and automation.  
+📍 Bengaluru, India
+💼 Aspiring Data Analyst | Future AI/ML Engineer
 
----
+👨‍💻 About Me
 
-## 🧠 About Me  
-- 💼 Worked on **AI Agent development** at **Position2**, building automation tools for SEO and marketing workflows.  
-- 💻 Strong hands-on experience in **Python**, **JavaScript**, and **Machine Learning**.  
-- 🧩 Skilled at developing, training, and deploying machine learning models for classification and regression tasks.  
-- 🔍 Exploring **Deep Learning**, **AI-driven automation**, and **Data Analytics**.  
-- 🎯 Goal: To contribute to a **startup or data-driven company** as a **Machine Learning Engineer** or **AI Developer**.
+I am a Data Analyst with a Computer Science background and practical skills in SQL, Python, Excel, and Power BI. I enjoy working with data to uncover insights, build dashboards, and develop analytical and machine learning solutions.
 
----
+I am currently seeking a Data Analyst role, with a long-term goal of growing into an AI/ML Engineer by building strong foundations in data analysis, machine learning, and real-world projects.
 
-## 🧩 Technical Skills  
+🛠️ Skills
 
-### 💻 Programming & Frameworks  
-- **Languages:** Python, JavaScript  
-- **Frameworks & Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Streamlit, FastAPI, Gradio  
-- **Web Tools:** Node.js, Express.js, REST APIs (for ML model integration)  
-- **Database:** MongoDB, MySQL  
+Data Analysis: SQL, Python (Pandas, NumPy), Excel
 
-### 🧠 Machine Learning & Data Science  
-- Supervised Learning (Regression, Classification)  
-- Unsupervised Learning (Clustering, PCA)  
-- Feature Engineering & Data Preprocessing  
-- Model Evaluation and Hyperparameter Tuning  
+Data Visualization: Power BI, DAX, Interactive Dashboard Design
 
-### ⚙️ Tools & Platforms  
-- Jupyter Notebook, VS Code  
-- Git, GitHub, Heroku, Docker (basic)  
-- Google Sheets API, SEMrush API, Puppeteer  
+Machine Learning: Scikit-learn, Model Training & Evaluation
 
----
+Programming: Python
 
-## 📚 Machine Learning Projects  
+📊 Projects
+🔹 Insurance Fraud Detection (End-to-End Machine Learning)
 
-| No | Project Title | Description |
-|----|----------------|-------------|
-| 1️⃣ | **Fault Detection in Wafers** | Developed a classification model to identify defective wafers using sensor data and ML algorithms. |
-| 2️⃣ | **Cement Strength Prediction** | Predicted the compressive strength of cement using regression and statistical analysis. |
-| 3️⃣ | **Credit Card Defaulters** | Built a model to classify potential credit card defaulters based on customer behavior and financial data. |
-| 4️⃣ | **Forest Cover Type Prediction** | Classified forest cover types using cartographic variables and ensemble learning. |
-| 5️⃣ | **Income Prediction** | Predicted whether a person’s income exceeds a threshold using demographic data. |
-| 6️⃣ | **Insurance Fraud Detection** | Detected fraudulent insurance claims through anomaly detection and supervised learning. |
-| 7️⃣ | **Mushroom Classification** | Classified mushrooms as edible or poisonous using decision trees and logistic regression. |
-| 8️⃣ | **Phishing Classifier** | Detected phishing URLs using extracted web-based features and ML models. |
-| 9️⃣ | **Thyroid Detection** | Built a diagnostic model to identify thyroid disorders using patient test data. |
-| 🔟 | **Visibility Climate Prediction** | Predicted climate visibility using regression analysis on weather datasets. |
+Tech Stack: Python, Pandas, Scikit-learn
 
----
+Built an end-to-end machine learning pipeline covering data ingestion, preprocessing, model training, evaluation, and prediction
 
-## 🧠 Featured Projects  
+Implemented a modular and production-style architecture with logging, exception handling, and model versioning
 
-### 🤖 **AI Chatbot for Businesses**  
-Custom GPT-powered chatbot that automates lead generation and customer support for small businesses.  
-🧩 *Node.js | OpenAI API | Express | ChatGPT Integration*
+Designed a batch prediction workflow for scalable fraud detection use cases
 
-### 🌐 **SEO Keyword Research Agent** *(Developed at Position2)*  
-AI-powered agent that automates keyword research, competitor analysis, and data extraction from Google and SEMrush.  
-⚙️ *Puppeteer | SEMrush API | OpenAI | Google Sheets API*
+🔗 Repository:
+👉 https://github.com/pavan-codeater/Insurance_Fraud_Detection
 
----
+🔹 Blinkit Sales Analysis Dashboard (Power BI)
 
-## 🔍 Currently Exploring  
-- Deep Learning (CNNs, NLP, Transformers)  
-- LLM Applications and Agentic Workflows  
-- Building ML & AI Portfolio Projects  
+Tool: Power BI
 
----
+Created an interactive Power BI dashboard to analyze Blinkit sales data
 
-## 💬 Let's Connect  
+Tracked KPIs, sales trends, and regional performance
 
-📧 **Email:** pavanlsuse@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/pavanls](https://linkedin.com/in/pavanls)  
-💻 **GitHub:** [github.com/pavanls](https://github.com/pavanls)
+Focused on clear, business-oriented insights using visual storytelling
 
----
+💼 Professional Experience
+SEO Analyst — Position2
 
-⭐️ *"Turning data into intelligent, automated, and impactful solutions."*
+Apr 2025 – Oct 2025
+
+Worked on on-page optimization and programmatic page creation initiatives
+
+Built Google Apps Script automations to separate brand and non-brand queries
+
+Implemented Slack alerts for brand performance thresholds
+
+Automated reporting workflows to reduce manual effort for stakeholders
+
+Software Engineer – SAP Support Project
+
+Tata Consultancy Services | Feb 2022 – Sep 2023
+
+Supported enterprise SAP systems to ensure application stability and smooth business operations
+
+🎓 Education
+
+Bachelor of Engineering – Computer Science
+SJB Institute of Technology (2017 – 2021)
+CGPA: 8.4
+
+📫 Connect With Me
+
+📧 Email: pavanlsuse@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/pavan-l-s
