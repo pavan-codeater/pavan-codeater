@@ -37,7 +37,7 @@ Apr 2025 – Oct 2025
 - Implemented Slack alerts for brand performance thresholds  
 - Automated reporting workflows to reduce manual effort  
 
-### Software Engineer – SAP Support Project  
+### Software Engineer – SAP Project  
 Tata Consultancy Services | Feb 2022 – Sep 2023  
 - Supported enterprise SAP systems to ensure stability and smooth operations  
 
