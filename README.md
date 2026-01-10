@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pavan L S
 
 📍 Bengaluru, India  
-💼 Aspiring Data Analyst | Future AI/ML Engineer
+💼 Aspiring Data Analyst
 
 ## About Me
 I am a Data Analyst with a Computer Science background and skills in SQL, Python, Excel, and Power BI. I enjoy working with data to uncover insights, build dashboards, and develop analytical and machine learning solutions.
@@ -12,7 +12,7 @@ I am currently seeking a Data Analyst role, with a long-term goal of growing int
 - Data Analysis: SQL, Python (Pandas, NumPy), Excel  
 - Data Visualization: Power BI, DAX, Interactive Dashboard Design  
 - Machine Learning: Scikit-learn, Model Training & Evaluation  
-- Programming: Python  
+- Programming: Python, JavaScript
 
 ## Projects
 
